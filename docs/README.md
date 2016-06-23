@@ -25,6 +25,8 @@
 
 Don't be shy, add your own.
 
+Use @ahfarmer's react starter finder to find one that fits your needs. http://andrewhfarmer.com/starter-project/ 
+
 ### Migrating to 1.0
 
 React Hot Loader has reached 1.0, and it's a breaking change. When React Hot Loader just started, it used a regex to find `createClass` calls and replace them with its own implementation. This turned out to be a bad idea for a number of reasons:
